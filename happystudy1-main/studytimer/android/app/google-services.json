@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832324963757",
+    "project_id": "study-timer-7c485",
+    "storage_bucket": "study-timer-7c485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832324963757:android:a7633c161aa0a9d571a524",
+        "android_client_info": {
+          "package_name": "com.example.studytimer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMRchie5eOaFMYrdPbXPsKd7pow4ConHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
